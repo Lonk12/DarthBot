@@ -19,7 +19,13 @@
     <name>joelso github mvn repo</name>
     <url>https://raw.github.com/joelso/joelso-mvn-repo/master/snapshots/</url>
 </repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
+
+
 <dependencies>
     <dependency>
         <groupId>org.discordbots</groupId>
